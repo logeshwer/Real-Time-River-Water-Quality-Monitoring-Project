@@ -1,0 +1,8 @@
+2022-11-19 11:38:58,024   ibmiotf.device.Client      INFO    Connected successfully: d:hdn6z8:Cloud:IBMIOT
+2022-11-19 11:39:02,524   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 11:39:06,422   ibmiotf.device.Client      INFO    Connected successfully: d:hdn6z8:Cloud:IBMIOT
+2022-11-19 11:39:10,606   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 12:35:45,083   ibmiotf.device.Client      INFO    Connected successfully: d:hdn6z8:Cloud:IBMIOT
+2022-11-19 13:32:18,678   ibmiotf.device.Client      INFO    Connected successfully: d:hdn6z8:Cloud:IBMIOT
+2022-11-19 19:37:37,654   ibmiotf.device.Client      INFO    Connected successfully: d:hdn6z8:Cloud:IBMIOT
+2022-11-19 19:48:43,467   ibmiotf.device.Client      INFO    Connected successfully: d:hdn6z8:Cloud:IBMIOT
